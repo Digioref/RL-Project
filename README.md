@@ -1,11 +1,11 @@
-# Reti Logiche: Final Test
+# Logic Networks: Final Test
 
 ## Authors
 This Project was developed by:
 - Francesco Di Giore
 
 ## Introduction
-This is the repository for the Final Test (Prova Finale) of Logical Networks (Reti Logiche) in the academic year 2022/2023 at Polytechnic of Milan.
+This is the repository for the Final Test (Prova Finale) of Logic Networks (Reti Logiche) in the academic year 2022/2023 at Polytechnic of Milan.
 
 Subject: 054441 - Prova Finale (Progetto di Reti Logiche) - professor Fornaciari William.
 
