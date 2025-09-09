@@ -4,10 +4,14 @@
 This Project was developed by:
 - Francesco Di Giore
 
-With Professor Fornaciari William.
-
 ## Introduction
 This is the repository for the Final Test (Prova Finale) of Logical Networks (Reti Logiche) in the academic year 2022/2023 at Polytechnic of Milan.
+
+Subject: 054441 - Prova Finale (Progetto di Reti Logiche) - professor Fornaciari William.
+
+Professor: Fornaciari William
+
+Academic Year: 2022/2023
 
 ## Description of the Project
 The project requires implementing a **hardware module in VHDL** that interfaces with a memory and directs the data read from memory to one of the **four available output channels** (Z0, Z1, Z2, Z3).  
