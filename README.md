@@ -7,7 +7,7 @@ This Project was developed by:
 ## Introduction
 This is the repository for the Final Test (Prova Finale) of Logic Networks (Reti Logiche) in the academic year 2022/2023 at Polytechnic of Milan.
 
-Subject: 054441 - Prova Finale (Progetto di Reti Logiche) - professor Fornaciari William.
+Subject: 054441 - Prova Finale (Progetto di Reti Logiche)
 
 Professor: Fornaciari William
 
