@@ -21,4 +21,4 @@ The module receives as input a serial bit stream, organized as follows:
 
 The module then reads the memory content at the given address and outputs the value to the selected channel.
 
-For further details, please review the [full description](Requirements/Specifica progetto di reti logica AA 2022-2023.pdf).
+For further details, please review the [full description](Requirements/Specifica_progetto_di_reti_logiche_AA_2022-2023.pdf).
